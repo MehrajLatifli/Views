@@ -1,3 +1,4 @@
 # Views
 
-https://github.com/MehrajLatifli/Views/blob/70e225b05426524e067174815e83ce0a29d3df3b/diagram.PNG
+
+![diagram](https://user-images.githubusercontent.com/30021708/134694578-80195920-7f78-4ae7-8c21-77926ca62c04.PNG)
